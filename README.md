@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Text Classifier Web Application
 
 This web application uses machine learning to analyze text and determine whether it was written by AI or a human. It provides explanations for its predictions using LIME (Local Interpretable Model-agnostic Explanations).
@@ -73,3 +74,4 @@ The application includes comprehensive error handling for:
 ## Contributing
 
 Feel free to submit issues and enhancement requests! 
+
